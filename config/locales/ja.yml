@@ -12,6 +12,7 @@ ja:
         origin: "発送元の地域"
         days_id: "発送までの日数"
         prefecture_id: "都道府県"
+        category_id: "カテゴリー"
     errors:
       messages:
         record_invalid: 'バリデーションに失敗しました: %{errors}'
